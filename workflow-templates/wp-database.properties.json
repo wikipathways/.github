@@ -1,0 +1,11 @@
+{
+    "name": "WikiPathways Database Workflow",
+    "description": "WikiPathways database workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Markdown"
+    ],
+    "filePatterns": [
+        ".*\\.md$"
+    ]
+}
